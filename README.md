@@ -1,12 +1,12 @@
-Olá! eu sou o Bernardo 👋
+_*Olá! eu sou o Bernardo*_ 👋
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Minhas redes sociais:
+*Minhas redes sociais:*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__brnd__/?hl=pt-br)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tecnologias que uso no meu dia a dia:
+*Tecnologias que uso no meu dia a dia:*
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +14,7 @@ Tecnologias que uso no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistemas operacionais que uso no meu dia a dia:
+*Sistemas operacionais que uso no meu dia a dia:*
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
