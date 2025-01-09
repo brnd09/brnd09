@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I am a Computer Science student driven by a strong passion for technology and innovation. With a current focus on mastering Data Science, I enjoy tackling challenging problems and uncovering creative solutions. Guided by curiosity and a dedication to personal growth, I actively pursue opportunities to refine my skills and deepen my knowledge in the field.</h2>
+<h2 align="left">I am a Computer Science student driven by a strong passion for technology and innovation. With a current focus on mastering Data Science. Guided by curiosity and a dedication to personal growth, I actively pursue opportunities to refine my skills and deepen my knowledge in the field.</h2>
 
 ###
 
